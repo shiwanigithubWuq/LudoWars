@@ -166,13 +166,3 @@ This approach allows the AI to make more strategic decisions by predicting the l
 ## Conclusion
 
 This project showcases an interactive Ludo game with AI integration, leveraging the expectimax algorithm to enhance decision-making. The AI component evaluates all possible moves while considering probabilities and uncertainties, allowing for more strategic and adaptive gameplay. By simulating intelligent decision-making, the AI creates a challenging and competitive environment for both human and AI-controlled players. The use of expectimax ensures that the AI can anticipate various outcomes based on probabilistic reasoning, making its moves more calculated and efficient. This combination of strategic planning, probabilistic analysis, and adaptive decision-making modernizes the classic Ludo experience, offering a more engaging and dynamic gameplay experience enriched by advanced AI techniques.
-
-
-
-## Team  
-- Shiwani Shrivastava (2301CS67)  
-- Manshi Prajapati (2302CS08)  
-- Sakshi Saxena (2301CS45)  
-- Ishika Gupta (2301AI10)  
-- Shefali Bishnoi (2301CS87)  
-- Saniya Prakash (2301CS49)
