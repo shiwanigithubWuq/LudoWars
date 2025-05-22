@@ -6,7 +6,7 @@
 - [Expectimax Algorithm](#expectimax-algorithm)
 - [Architecture](#architecture)
 - [Conclusion](#conclusion)
-- [Team](#team)
+  
 
 ## Introduction 
 
